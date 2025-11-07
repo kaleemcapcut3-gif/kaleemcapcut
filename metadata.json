@@ -1,0 +1,7 @@
+{
+  "name": "Installment Pro",
+  "description": "A comprehensive management application for shop owners to handle customers, products, and installment plans efficiently. Track payments, manage inventory, and view insightful reports all in one place.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
